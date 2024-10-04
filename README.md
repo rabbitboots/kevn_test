@@ -1,3 +1,8 @@
+# Obsolete!
+
+**This repository is obsolete.** As of v2.0.0, KEVN tests are now included in the [main package](https://github.com/rabbitboots/kevn).
+
+
 # KEVN Test and Demo Repo
 
 Contains test and demo materials for [KEVN](https://github.com/rabbitboots/kevn).
